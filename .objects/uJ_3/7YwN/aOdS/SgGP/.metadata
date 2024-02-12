@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Button_Login",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "SgGPjXIIEEOJcXfNyHM7Gg",
+  "Reference": "obpUawS9FEScK0606W3X3A/SgGPjXIIEEOJcXfNyHM7Gg",
+  "ParentRef": "obpUawS9FEScK0606W3X3A/aOdS5sPcmUavo53S6F-8bQ",
+  "Created": "2024-02-09T12:00:05.2005703Z",
+  "Updated": "2024-02-09T12:00:17.4399212Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
